@@ -1,0 +1,13 @@
+1. C:\Users\MAELE KE SETSWANA\Documents>mkdir newfolder
+
+2.C:\Users\MAELE KE SETSWANA\Documents>cd newfolder
+
+3.C:\Users\MAELE KE SETSWANA\Documents\newfolder>dir
+
+4.C:\Users\MAELE KE SETSWANA\Documents\newfolder>Echo. >ReadMe.md
+
+5.C:\Users\MAELE KE SETSWANA\Documents\newfolder>git init
+
+6.C:\Users\MAELE KE SETSWANA\Documents\newfolder>git --version
+
+7.
